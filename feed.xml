@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>النورس</title>
+    <link href="https://seagull.onrender.com/feed.xml" rel="self" />
+    <link href="https://seagull.onrender.com" />
+    <updated>١٩٧٠-٠١-٠١T٠٢:٠٠:٠٠+٠٢:٠٠</updated>
+    <author>
+        <name>الطائر</name>
+    </author>
+    <id>https://seagull.onrender.com</id>
+
+</feed>
